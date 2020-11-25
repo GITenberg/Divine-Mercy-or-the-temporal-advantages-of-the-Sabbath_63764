@@ -1,11 +1,16 @@
 _repo: Divine-Mercy-or-the-temporal-advantages-of-the-Sabbath_63764
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63764-h/images/covers.jpg
 creator:
   author:
     agent_name: Bryan, George
     gutenberg_agent_id: '43494'
     url: http://www.gutenberg.org/2009/agents/43494
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63764#Divine-Mercy-or-the-temporal-advantages-of-the-Sabbath
 gutenberg_issued: '2020-11-14'
 gutenberg_type: Text
 identifiers:
